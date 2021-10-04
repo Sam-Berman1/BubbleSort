@@ -2,7 +2,7 @@
 <h3> About: </h3>
 <p> 
 Inspired by The Coding Train's visualization's of Bubblesort in Processing & Quicksort in p5.
-<br>messing around with p5, and learning about js promises (who uses bubblesort anyway)
+<br>messing around with p5, and learning about js promises
 
 </p>
 <h3> License MIT </h3>
